@@ -1,72 +1,30 @@
-# pyromania
+<h1 align="center">Hi 👋, I'm pyromania</h1>
+<h3 align="center">A not so passionate owner of xGEAREDx</h3>
 
-![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output-metrics/metrics.classic.svg)|![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output-metrics/metrics.plugin.languages.details.svg)
-|:---:|:---:|
+- 🔭 I’m currently working on **geared-changelog**
 
-## About Me:
-student
-idfk
+- 🌱 I’m currently learning **javascript**
 
-## Work:
-- Web Developer (kinda...)
+- 👯 I’m looking for people to join [xGEAREDx](github.com/xgearedx)
 
-## My Skills
+- 🤝 I’m looking for help with **life :)**
 
-<div id="MySkills"></div>
+- 👨‍💻 All of my projects are available at [xgearedx.github.io](xgearedx.github.io)
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,cs,bootstrap,js,docker,git,linux,mysql,nodejs,php,tailwind,visualstudio,vscode,bash,debian,md,obsidian,postman,raspberrypi,ubuntu,sublime,dotnet,arduino,c)](#MySkills)
-<!--
-## Work With:
-<div>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img align="center" height="30" width="40" src="">
-  <img align="center" height="30" width="40" src="">
-  <img align="center" height="30" width="40" src="">
-  <img align="center" height="30" width="40" src="">
-</div>
+- 💬 Ask me about **html**
 
-## Coding Skills:
-<div>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" src="">
-  <img align="center" height="30" width="40" src="">
-</div>
--->
+- 📫 How to reach me **hypetendo324@gmail.com**
 
-## My Achievements
-![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output-metrics/metrics.plugin.achievements.compact.svg)
-<details>
-<summary>
-  Achivements Details
-</summary>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output-metrics/metrics.plugin.achievements.svg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-</details>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyromania324&show_icons=true&locale=en&layout=compact" alt="pyromania324" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pyromania324&show_icons=true&locale=en" alt="pyromania324" /></p>
 
-## Contact:
-- Email: <a href="mailto:hypetendo324@gmail.com">hypetendo324@gmail.com</a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pyromania324&" alt="pyromania324" /></p>
 
-
-## Commits
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nerexbcd/Nerexbcd/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nerexbcd/Nerexbcd/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
-</div>
